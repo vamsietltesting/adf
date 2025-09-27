@@ -1,0 +1,5 @@
+ProductID,ProductName,Category,Price
+201,Sedan,Car,20000
+202,SUV,Car,35000
+203,Hatchback,Car,15000
+204,Truck,Car,50000
