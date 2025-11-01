@@ -1,0 +1,16 @@
+book_id,title,author_id,genre,publish_date
+1,Harry Potter and the Sorcerer's Stone,1,Fantasy,1997-06-26
+2,The Shining,2,Horror,1977-01-28
+3,Murder on the Orient Express,3,Mystery,1934-01-01
+4,A Game of Thrones,4,Fantasy,1996-08-06
+5,Kafka on the Shore,5,Magical Realism,2002-09-12
+6,The Alchemist,6,Philosophical Fiction,1988-01-01
+7,The Da Vinci Code,7,Thriller,2003-03-18
+8,Half of a Yellow Sun,8,Historical Fiction,2006-09-12
+9,Sapiens: A Brief History of Humankind,9,Non-fiction,2011-02-04
+10,It Ends With Us,10,Romance,2016-08-02
+11,Five Point Someone,11,Contemporary Fiction,2004-01-01
+12,The Handmaid's Tale,12,Dystopian,1985-08-01
+13,The House of the Spirits,13,Magical Realism,1982-01-01
+14,American Gods,14,Fantasy,2001-06-19
+15,My Brilliant Friend,15,Literary Fiction,2011-10-15
